@@ -148,7 +148,9 @@ If you use or build upon this work, please cite:
 > **ANKUR MALI**, "Comprehensive AI, ML & Deep Learning Compendium," GitHub repository, 2025.
 
 ---
+⚠️ Disclaimer
 
+This notebook and accompanying code are provided for educational and demonstration purposes only. While every effort has been made to ensure the accuracy and reliability of the content, the authors make no warranties about its suitability for any purpose. Use, modification, and distribution of this material are at your own risk.
 ## 🔍 SEO & Keywords
 
 **Keywords**: Jupyter Notebook, Data Visualization, Gapminder, Deep Learning, Neural Networks, NLP, Transformers, Zero-Shot Classification, Embeddings, Clustering, AI, Machine Learning, Python
